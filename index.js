@@ -7,3 +7,7 @@ function getSquare(length, width, height) {
     return result;
 }
 
+module.exports = {
+    getSquare: getSquare,
+}
+
